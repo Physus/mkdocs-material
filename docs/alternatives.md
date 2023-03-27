@@ -1,4 +1,4 @@
-# Alternatives
+# Alternatives96
 
 There are tons of static site generators and themes out there and choosing the
 right one for your tech stack is a tough decision. If you're unsure if Material
